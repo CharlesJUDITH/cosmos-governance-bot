@@ -30,3 +30,8 @@ Install the python prerequisites:
 Run the script:
 
 `python app.py`
+
+## TODO
+
+- API to expose the proposals
+- Docker image 
