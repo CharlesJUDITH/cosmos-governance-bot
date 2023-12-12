@@ -1,8 +1,8 @@
-# cosmos-governance-bot
+# cosmos governance bot
 
-Cosmos governance bot to send last active proposal on Slack.
+Cosmos governance bot to send last active proposals on Slack.
 
-## configuration
+## Configuration
 
 chains.json
 ```
@@ -21,8 +21,12 @@ chains.json
 
 ## Installation
 
+Install the python prerequisites:
+
 `pip install requests`
 
 ## Run
+
+Run the script:
 
 `python app.py`
